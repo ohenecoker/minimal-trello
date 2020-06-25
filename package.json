@@ -1,0 +1,9 @@
+{
+  "name": "minimal_trell",
+  "version": "0.0.1",
+  "description": "A minimalist trello UI",
+  "main": "index.js",
+  "author": "Christian Coker",
+  "license": "MIT",
+  "private": false
+}
